@@ -2,4 +2,7 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by Andres for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Andres](https://github.com/sudofer)
+ for the Lighthouse Labs Web Development Bootcamp.
+
+
